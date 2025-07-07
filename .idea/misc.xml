@@ -3,7 +3,7 @@
   <component name="CMakePythonSetting">
     <option name="pythonIntegrationState" value="YES" />
   </component>
-  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$/线性表/SqList">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$/List/SqList">
     <contentRoot DIR="$PROJECT_DIR$" />
   </component>
 </project>
